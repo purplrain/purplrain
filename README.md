@@ -31,6 +31,5 @@
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 
 <p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=saviomartin" id="counter">
 </p>
 ⭐️ From [swiped](https://github.com/swipedIRL)
