@@ -1,34 +1,30 @@
-- 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning NodeJS
-- 💬 Ask me anything about my projects
-- 📫 How to reach me: altsec@shenron.ru
-- 😄 My website: altsec.cc
-- ⚡ Fun fact: I'm 13, working on mass scale projects.
+```zsh
+> neofetch
+```
 
-- <a href="https://www.instagram.com/swipedXD/"><img src="https://img.shields.io/badge/instagram%20@swipedXD-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-- <a href="https://www.twitter.com/198riseup/"><img src="https://img.shields.io/badge/twitter%20@198riseup-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-- <a href="https://altsec.cc/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20altsec.cc-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
+<img align="left" src="https://raw.githubusercontent.com/ecriminal/ecriminal/main/assets/cannabis.png" alt="logo.png" width="200" /> 
 
+```csharp
+Smith-Hash@github
+----------------
 
-![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
-![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
-![Sass](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=8E2DE2)
-![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
-<br>
-![bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
-![materializecss](https://img.shields.io/badge/Materialize%20css-grey?style=for-the-badge&logo=google&logoColor=white&labelColor=8E2DE2)
-![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=8E2DE2)
-![php](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=8E2DE2)
-<br>
-![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=8E2DE2)
-![firebase](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=8E2DE2)
-![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
-![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
-<br>
-![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
-![jquery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=8E2DE2)
-![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
+       OS  :  Windows 10 x86
+      CPU  :  AMD Ryzen 5 5600X (6) @ 8.0GHz
+      GPU  :  AMD Radeon RX 5600 XT
+    Alias  :  terrorist/swiped
+Languages  :  Python
+  Discord  :  902407051605606410
+```
 
-<p align="center">
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="#474342" src="https://via.placeholder.com/15/ADBAC7/000000?text=+" width="25" height="20" />
+  <img alt="#fbedf6" src="https://via.placeholder.com/15/6CB6FF/000000?text=+" width="25" height="20" />
+  <img alt="#c9594d" src="https://via.placeholder.com/15/F47067/000000?text=+" width="25" height="20" />
+  <img alt="#f8b9b2" src="https://via.placeholder.com/15/DCBDFB/000000?text=+" width="25" height="20" />
+  <img alt="#f8b9b2" src="https://via.placeholder.com/15/57ab5a/000000?text=+" width="25" height="20" />
 </p>
-⭐️ From [swiped](https://github.com/swipedIRL)
+
+---
+
+![](https://komarev.com/ghpvc/?username=purplrain&style=flat-square)
